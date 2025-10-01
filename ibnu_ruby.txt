@@ -1,4 +1,4 @@
-Nama : Ibnu Galih Wicaksono
+NAMA : Ibnu Galih Wicaksono
 Nim  : 25106050022
 
 Figma adalah web yang digunakan untuk mendesain antarmuka.
