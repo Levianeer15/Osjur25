@@ -1,4 +1,5 @@
 NAMA : Ibnu Galih Wicaksono
-Nim  : 25106050022
+NIM  : 25106050022
 
-Figma adalah web yang digunakan untuk mendesain antarmuka.
+Figma adalah web yang digunakan untuk mendesain atau merancang antarmuka
+(UI/UX).
